@@ -1,0 +1,19 @@
+.search-bar {
+    width: 550px;
+}
+
+.icon-button-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.icon-button-container i {
+    font-size: 45px;
+    color: darkgreen;
+    margin-bottom: 20px;
+}
+
+.initially-hidden {
+    display: none;
+}
